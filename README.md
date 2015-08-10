@@ -1,2 +1,2 @@
 # blueflood_run
-For running Blueflood
+Use startBlueflood.sh to start your own blueflood instance!
